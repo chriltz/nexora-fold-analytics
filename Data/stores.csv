@@ -1,0 +1,51 @@
+store_id	store_name	city	state	region	store_type
+201	Nexora Austin Central	Austin	Texas	South	Flagship
+202	Nexora Dallas NorthPark	Dallas	Texas	South	Retail
+203	Nexora Houston Galleria	Houston	Texas	South	Retail
+204	Nexora San Antonio	San Antonio	Texas	South	Retail
+205	Nexora Miami Brickell	Miami	Florida	South	Flagship
+206	Nexora Orlando Millenia	Orlando	Florida	South	Retail
+207	Nexora Tampa Bay	Tampa	Florida	South	Retail
+208	Nexora Atlanta Midtown	Atlanta	Georgia	South	Flagship
+209	Nexora Charlotte SouthPark	Charlotte	North Carolina	South	Retail
+210	Nexora Raleigh Crabtree	Raleigh	North Carolina	South	Retail
+211	Nexora Nashville	Nashville	Tennessee	South	Retail
+212	Nexora New Orleans	New Orleans	Louisiana	South	Retail
+213	Nexora Chicago Michigan Ave	Chicago	Illinois	Midwest	Flagship
+214	Nexora Minneapolis North Loop	Minneapolis	Minnesota	Midwest	Retail
+215	Nexora Detroit Downtown	Detroit	Michigan	Midwest	Retail
+216	Nexora Columbus Easton	Columbus	Ohio	Midwest	Retail
+217	Nexora Cleveland Beachwood	Cleveland	Ohio	Midwest	Retail
+218	Nexora Indianapolis Circle	Indianapolis	Indiana	Midwest	Retail
+219	Nexora Milwaukee Third Ward	Milwaukee	Wisconsin	Midwest	Retail
+220	Nexora St. Louis Central West End	St. Louis	Missouri	Midwest	Retail
+221	Nexora Kansas City Plaza	Kansas City	Missouri	Midwest	Retail
+222	Nexora Omaha Midtown	Omaha	Nebraska	Midwest	Retail
+223	Nexora New York Fifth Ave	New York	New York	Northeast	Flagship
+224	Nexora Brooklyn Downtown	Brooklyn	New York	Northeast	Retail
+225	Nexora Boston Back Bay	Boston	Massachusetts	Northeast	Flagship
+226	Nexora Philadelphia Center City	Philadelphia	Pennsylvania	Northeast	Retail
+227	Nexora Pittsburgh Walnut	Pittsburgh	Pennsylvania	Northeast	Retail
+228	Nexora Baltimore Harbor	Baltimore	Maryland	Northeast	Retail
+229	Nexora Washington Georgetown	Washington	District of Columbia	Northeast	Flagship
+230	Nexora Newark Downtown	Newark	New Jersey	Northeast	Retail
+231	Nexora Hartford West End	Hartford	Connecticut	Northeast	Retail
+232	Nexora Providence Downtown	Providence	Rhode Island	Northeast	Retail
+233	Nexora Los Angeles Grove	Los Angeles	California	West	Flagship
+234	Nexora San Francisco Union Square	San Francisco	California	West	Flagship
+235	Nexora San Diego UTC	San Diego	California	West	Retail
+236	Nexora San Jose Valley Fair	San Jose	California	West	Retail
+237	Nexora Seattle Downtown	Seattle	Washington	West	Flagship
+238	Nexora Portland Pearl	Portland	Oregon	West	Retail
+239	Nexora Denver Cherry Creek	Denver	Colorado	West	Retail
+240	Nexora Phoenix Biltmore	Phoenix	Arizona	West	Retail
+241	Nexora Las Vegas Summerlin	Las Vegas	Nevada	West	Retail
+242	Nexora Salt Lake City	Salt Lake City	Utah	West	Retail
+243	Nexora Albuquerque Uptown	Albuquerque	New Mexico	West	Retail
+244	Nexora Boise Downtown	Boise	Idaho	West	Retail
+245	Nexora Anchorage Midtown	Anchorage	Alaska	West	Retail
+246	Nexora Honolulu Ala Moana	Honolulu	Hawaii	West	Retail
+247	Nexora Sacramento Midtown	Sacramento	California	West	Retail
+248	Nexora Fort Worth Clearfork	Fort Worth	Texas	South	Retail
+249	Nexora Richmond Short Pump	Richmond	Virginia	South	Retail
+250	Nexora Jacksonville St. Johns	Jacksonville	Florida	South	Retail
